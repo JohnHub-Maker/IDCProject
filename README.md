@@ -1,4 +1,5 @@
 # 工业设备监控上位机
+![AppImg](./Appimg.jpg)
 基于.NET Framework 4.8 + WinForm开发的工业设备监控上位机，通过Modbus RTU协议实时采集设备的进出压力值、两组温湿度数据，结合HZHControl和SunnyUI控件库实现美观且易用的人机交互界面。
 
 ## 项目特性
