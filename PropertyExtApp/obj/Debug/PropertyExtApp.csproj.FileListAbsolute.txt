@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\CompanyName.IDCProject\PropertyExtApp\bin\Debug\PropertyExtApp.dll
+C:\Users\Administrator\source\repos\CompanyName.IDCProject\PropertyExtApp\bin\Debug\PropertyExtApp.pdb
+C:\Users\Administrator\source\repos\CompanyName.IDCProject\PropertyExtApp\obj\Debug\PropertyExtApp.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\CompanyName.IDCProject\PropertyExtApp\obj\Debug\PropertyExtApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CompanyName.IDCProject\PropertyExtApp\obj\Debug\PropertyExtApp.dll
+C:\Users\Administrator\source\repos\CompanyName.IDCProject\PropertyExtApp\obj\Debug\PropertyExtApp.pdb

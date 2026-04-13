@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\CompanyName.IDCProject\ControlLib\bin\Debug\ControlLib.dll
+C:\Users\Administrator\source\repos\CompanyName.IDCProject\ControlLib\bin\Debug\ControlLib.pdb
+C:\Users\Administrator\source\repos\CompanyName.IDCProject\ControlLib\obj\Debug\ControlLib.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\CompanyName.IDCProject\ControlLib\obj\Debug\ControlLib.Properties.Resources.resources
+C:\Users\Administrator\source\repos\CompanyName.IDCProject\ControlLib\obj\Debug\ControlLib.Pump.resources
+C:\Users\Administrator\source\repos\CompanyName.IDCProject\ControlLib\obj\Debug\ControlLib.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\CompanyName.IDCProject\ControlLib\obj\Debug\ControlLib.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CompanyName.IDCProject\ControlLib\obj\Debug\ControlLib.dll
+C:\Users\Administrator\source\repos\CompanyName.IDCProject\ControlLib\obj\Debug\ControlLib.pdb

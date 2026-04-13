@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\CompanyName.IDCProject\ControlsLib\bin\Release\ControlsLib.dll
+C:\Users\Administrator\source\repos\CompanyName.IDCProject\ControlsLib\bin\Release\ControlsLib.pdb
+C:\Users\Administrator\source\repos\CompanyName.IDCProject\ControlsLib\obj\Release\ControlsLib.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\CompanyName.IDCProject\ControlsLib\obj\Release\ControlsLib.Properties.Resources.resources
+C:\Users\Administrator\source\repos\CompanyName.IDCProject\ControlsLib\obj\Release\ControlsLib.WPump.resources
+C:\Users\Administrator\source\repos\CompanyName.IDCProject\ControlsLib\obj\Release\ControlsLib.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\CompanyName.IDCProject\ControlsLib\obj\Release\ControlsLib.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CompanyName.IDCProject\ControlsLib\obj\Release\ControlsLib.dll
+C:\Users\Administrator\source\repos\CompanyName.IDCProject\ControlsLib\obj\Release\ControlsLib.pdb
